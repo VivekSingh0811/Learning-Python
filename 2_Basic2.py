@@ -6,7 +6,7 @@ print(type(name))
 print(type(name) == str)
 
 print(isinstance(name, str))
-# To check if the name is the instance if the string class...
+# To check if the name is the instance of the string class...
 
 
 
@@ -173,4 +173,5 @@ print(State['ACTIVE'].value)
 
 print(list(State))
 print(len(State))
+
 
